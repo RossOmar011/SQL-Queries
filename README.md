@@ -93,6 +93,17 @@ Conditions:
 #### Summary
 
 By applying various SQL filters and operators such as AND, OR, NOT, and LIKE, I was able to retrieve specific information about login attempts and employee machines. This detailed filtering helped in investigating security incidents and updating employee computers efficiently.
+##
+## Incident Report Analysis
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Summary  | The investigation involves querying various datasets to identify suspicious login attempts and specific employee machines that require security updates. By using SQL filters, you can retrieve the necessary records to address the potential security issues and ensure the system remains secure  |
+| Idenitfy  | The incident affected the security of the organization's systems, specifically involving login attempts and employee machines. The potential security issues discovered included after-hours login attempts, suspicious events on specific dates, and login attempts outside of Mexico. Additionally, the incident required security updates for employee machines in the Marketing, Sales, and Finance departments, as well as for employees in all departments except the Information Technology department  |
+| Protect  | To protect internal assets, it is crucial to implement comprehensive policies, procedures, training, and tools that help mitigate cybersecurity threats. This involves several key actions: Implementing Multi-Factor Authentication (MFA), Updating Security Policies and Procedures, Performing Targeted Security Updates  |
+| Detect  | To address potential security incidents and improve monitoring capabilities, the organization should focus on several key areas. First, implementing multi-factor authentication (MFA) can significantly reduce the risk of unauthorized access by requiring a second form of verification in addition to the password.  |
+| Respond  | Content Cell  |
+| Recover  | Content Cell  |
 
 
 
