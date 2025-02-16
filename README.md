@@ -96,7 +96,7 @@ By applying various SQL filters and operators such as AND, OR, NOT, and LIKE, I 
 ##
 ## Incident Report Analysis
 
-| First Header  | Second Header |
+|   | Incident |
 | ------------- | ------------- |
 | Summary  | The investigation involves querying various datasets to identify suspicious login attempts and specific employee machines that require security updates. By using SQL filters, you can retrieve the necessary records to address the potential security issues and ensure the system remains secure  |
 | Idenitfy  | The incident affected the security of the organization's systems, specifically involving login attempts and employee machines. The potential security issues discovered included after-hours login attempts, suspicious events on specific dates, and login attempts outside of Mexico. Additionally, the incident required security updates for employee machines in the Marketing, Sales, and Finance departments, as well as for employees in all departments except the Information Technology department  |
